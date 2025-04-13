@@ -1,1 +1,1 @@
-# SQL_Data-Cleaning
+# SQL_Data-Cleaning and Exploratory Data Analysis (EDA)
